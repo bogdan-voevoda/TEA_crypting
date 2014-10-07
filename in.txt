@@ -1,0 +1,3 @@
+Here we propose a new block cipher called Raiden. This new cipher has been developed following a Feistel Network structure by means of genetic programming. Our intention now consists on getting as much feedback as possible from users, so we encourage you to test the algorithm and send us your opinion. We would also like to receive enhancements and new versions of the algorithm, developed in other source languages and platforms.
+
+Our idea on developing this cipher is to propose it as an alternative to TEA block cipher. TEA is a very interesting cipher with lots of real applications. It is very simple and fast, and it reaches an acceptable level of security by the application of a lot of cycles.
