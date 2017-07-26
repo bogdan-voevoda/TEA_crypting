@@ -31,3 +31,4 @@ FileDataReader::~FileDataReader() {
     file.close();
     free(ptr);
 }
+

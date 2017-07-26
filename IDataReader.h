@@ -12,3 +12,4 @@ public:
 };
 
 #endif // I_DATA_READER
+

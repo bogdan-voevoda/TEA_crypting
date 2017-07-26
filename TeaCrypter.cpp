@@ -53,3 +53,4 @@ TeaCrypter::~TeaCrypter() {
         free(inputData);
     }
 }
+
